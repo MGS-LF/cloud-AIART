@@ -1,0 +1,17 @@
+{
+    "name": "tencentcloud/sample",
+    "description": "Tencent Cloud SDK PHP code sample.",
+    "type": "library",
+    "license": "Apache 2.0",
+    "require": {
+        "php": ">=5.6",
+        "tencentcloud/common": "*",
+        "tencentcloud/aiart" : "*"
+    },
+    "authors": [
+        {
+            "name": "tencentcloudapi",
+            "email": "tencentcloudapi@tencent.com"
+        }
+    ]
+}
